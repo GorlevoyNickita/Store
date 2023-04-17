@@ -1,0 +1,8 @@
+canned  5 100 45
+Pork 5 150 40
+sausages 8 100 45
+Ham 22 200 50
+Duck 30 210 40
+cola 40 120 35
+
+
